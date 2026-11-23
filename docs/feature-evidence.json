@@ -1,0 +1,178 @@
+{
+  "collectedAt": "2026-11-23T12:54:52.910Z",
+  "ordinary": {
+    "kind": "video",
+    "returned": 20,
+    "sources": [
+      "piped"
+    ],
+    "pages": [
+      {
+        "source": "piped",
+        "page": 1,
+        "returned": 20,
+        "newIds": 20
+      }
+    ],
+    "warnings": [],
+    "kinds": [
+      "video"
+    ]
+  },
+  "shorts": {
+    "kind": "short",
+    "returned": 0,
+    "sources": [
+      "piped",
+      "invidious"
+    ],
+    "pages": [
+      {
+        "source": "piped",
+        "page": 1,
+        "returned": 20,
+        "newIds": 20
+      },
+      {
+        "source": "piped",
+        "page": 2,
+        "returned": 20,
+        "newIds": 20
+      },
+      {
+        "source": "invidious",
+        "page": 1,
+        "returned": 20,
+        "newIds": 6
+      },
+      {
+        "source": "invidious",
+        "page": 2,
+        "returned": 13,
+        "newIds": 9
+      }
+    ],
+    "warnings": [
+      "上游未明确标记类型的结果已排除。",
+      "上游关键词接口未返回已明确标记的 Shorts。"
+    ],
+    "kinds": []
+  },
+  "noTracks": {
+    "id": "XIMLoLxmTDw",
+    "source": "invidious",
+    "tracks": 0
+  },
+  "disabled": {
+    "videoId": "e_04ZrNroTo",
+    "source": "piped",
+    "disabled": true
+  },
+  "status": {
+    "requests": 8,
+    "successes": 7,
+    "failures": 1,
+    "cacheHits": 0,
+    "cacheMisses": 5,
+    "coalesced": 0,
+    "fallbacks": 2,
+    "providers": [
+      {
+        "id": "invidious",
+        "base": "https://yt.chocolatemoo53.com",
+        "state": "error",
+        "checkedAt": "2026-11-23T12:54:51.369Z",
+        "cooldownUntil": null,
+        "lastError": "HTTP 404",
+        "successes": 3,
+        "failures": 1
+      },
+      {
+        "id": "piped",
+        "base": "https://api.piped.private.coffee",
+        "state": "available",
+        "checkedAt": "2026-11-23T12:54:52.909Z",
+        "cooldownUntil": null,
+        "lastError": null,
+        "successes": 4,
+        "failures": 0
+      }
+    ],
+    "recent": [
+      {
+        "source": "piped",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:54:52.909Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1539,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:54:51.369Z",
+        "status": "FAILED",
+        "http": 404,
+        "error": "HTTP 404",
+        "elapsedMs": 4681
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:54:44.688Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 94,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:54:42.594Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 5213,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:54:35.375Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 4332,
+        "error": null
+      },
+      {
+        "source": "piped",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:54:31.040Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1428,
+        "error": null
+      },
+      {
+        "source": "piped",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:54:27.611Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 936,
+        "error": null
+      },
+      {
+        "source": "piped",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:54:24.674Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1094,
+        "error": null
+      }
+    ],
+    "p50Ms": 1428,
+    "p95Ms": 5213
+  }
+}

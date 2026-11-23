@@ -1,0 +1,106 @@
+{
+  "collectedAt": "2026-11-23T12:52:07.890Z",
+  "primary": "controlled 503 and Retry-After",
+  "search": 20,
+  "returnedSource": "piped",
+  "cacheHit": true,
+  "videoId": "mGnWFfMBvm0",
+  "title": "Grok Bot vs Hermes Agent: Which AI Agent Should You Actually Use?",
+  "views": 21795,
+  "likes": 291,
+  "comments": 53,
+  "firstPage": 20,
+  "secondPage": 4,
+  "overlap": 0,
+  "captionLanguage": "en",
+  "cues": 416,
+  "status": {
+    "requests": 6,
+    "successes": 5,
+    "failures": 1,
+    "cacheHits": 2,
+    "cacheMisses": 7,
+    "coalesced": 0,
+    "fallbacks": 3,
+    "providers": [
+      {
+        "id": "invidious",
+        "base": "http://127.0.0.1:38923",
+        "state": "cooldown",
+        "checkedAt": "2026-11-23T12:51:53.852Z",
+        "cooldownUntil": "2026-11-23T12:53:53.851Z",
+        "lastError": "HTTP 503",
+        "successes": 0,
+        "failures": 1
+      },
+      {
+        "id": "piped",
+        "base": "https://api.piped.private.coffee",
+        "state": "available",
+        "checkedAt": "2026-11-23T12:52:07.886Z",
+        "cooldownUntil": null,
+        "lastError": null,
+        "successes": 5,
+        "failures": 0
+      }
+    ],
+    "recent": [
+      {
+        "source": "piped",
+        "operation": "transcript",
+        "collectedAt": "2026-11-23T12:52:07.886Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1624,
+        "error": null
+      },
+      {
+        "source": "piped",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:52:06.259Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 710,
+        "error": null
+      },
+      {
+        "source": "piped",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:52:03.548Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2095,
+        "error": null
+      },
+      {
+        "source": "piped",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:51:59.452Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1184,
+        "error": null
+      },
+      {
+        "source": "piped",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:51:56.267Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2414,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:51:53.852Z",
+        "status": "BLOCKED",
+        "http": 503,
+        "error": "HTTP 503",
+        "elapsedMs": 17
+      }
+    ],
+    "p50Ms": 1184,
+    "p95Ms": 2414
+  }
+}

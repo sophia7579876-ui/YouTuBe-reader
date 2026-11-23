@@ -1,0 +1,30 @@
+{
+  "name": "video-atlas",
+  "private": true,
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "engines": {
+    "node": ">=24.5.0"
+  },
+  "scripts": {
+    "dev": "node --use-env-proxy --import tsx scripts/dev.ts",
+    "build": "npm run typecheck && npm run build -w @atlas/web && esbuild apps/api/src/index.ts --bundle --platform=node --format=esm --packages=external --outfile=apps/api/dist/server.mjs",
+    "start": "node --use-env-proxy apps/api/dist/server.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "node --use-env-proxy --import tsx --test tests/unit.test.ts",
+    "test:live": "node --use-env-proxy --import tsx tests/live.ts",
+    "test:browser": "playwright test --config tests/playwright.config.ts",
+    "test:fallback": "node --use-env-proxy --import tsx tests/fallback-live.ts",
+    "test:features": "node --use-env-proxy --import tsx tests/feature-live.ts"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^24.12.0",
+    "esbuild": "^0.27.3",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
+}

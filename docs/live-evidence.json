@@ -1,0 +1,1464 @@
+{
+  "startedAt": "2026-11-23T12:42:03.058Z",
+  "updatedAt": "2026-11-23T12:48:02.910Z",
+  "searches": [
+    {
+      "query": "AI Agent",
+      "status": "VERIFIED",
+      "requested": 100,
+      "returned": 100,
+      "rawCount": 120,
+      "uniqueCount": 104,
+      "pages": [
+        {
+          "source": "invidious",
+          "page": 1,
+          "returned": 20,
+          "newIds": 20
+        },
+        {
+          "source": "invidious",
+          "page": 2,
+          "returned": 20,
+          "newIds": 19
+        },
+        {
+          "source": "invidious",
+          "page": 3,
+          "returned": 20,
+          "newIds": 17
+        },
+        {
+          "source": "invidious",
+          "page": 4,
+          "returned": 20,
+          "newIds": 14
+        },
+        {
+          "source": "invidious",
+          "page": 5,
+          "returned": 20,
+          "newIds": 16
+        },
+        {
+          "source": "invidious",
+          "page": 6,
+          "returned": 20,
+          "newIds": 18
+        }
+      ],
+      "sources": [
+        "invidious"
+      ],
+      "warnings": [],
+      "fields": {
+        "title": 100,
+        "id": 100,
+        "channel": 100,
+        "publishedAt": 100,
+        "duration": 100,
+        "views": 100,
+        "likes": 0,
+        "comments": 0,
+        "classified": 0
+      },
+      "cacheHit": true,
+      "sampleIds": [
+        "X4FVEEegCbk",
+        "UUg5oij7ptw",
+        "SJywU4UQryQ"
+      ]
+    },
+    {
+      "query": "Claude Code",
+      "status": "VERIFIED",
+      "requested": 100,
+      "returned": 100,
+      "rawCount": 120,
+      "uniqueCount": 103,
+      "pages": [
+        {
+          "source": "invidious",
+          "page": 1,
+          "returned": 20,
+          "newIds": 20
+        },
+        {
+          "source": "invidious",
+          "page": 2,
+          "returned": 20,
+          "newIds": 19
+        },
+        {
+          "source": "invidious",
+          "page": 3,
+          "returned": 20,
+          "newIds": 18
+        },
+        {
+          "source": "invidious",
+          "page": 4,
+          "returned": 20,
+          "newIds": 17
+        },
+        {
+          "source": "invidious",
+          "page": 5,
+          "returned": 20,
+          "newIds": 14
+        },
+        {
+          "source": "invidious",
+          "page": 6,
+          "returned": 20,
+          "newIds": 15
+        }
+      ],
+      "sources": [
+        "invidious"
+      ],
+      "warnings": [],
+      "fields": {
+        "title": 100,
+        "id": 100,
+        "channel": 100,
+        "publishedAt": 100,
+        "duration": 100,
+        "views": 100,
+        "likes": 0,
+        "comments": 0,
+        "classified": 0
+      },
+      "cacheHit": true,
+      "sampleIds": [
+        "Jz4QT0vH-MU",
+        "8GCqVb4c_yQ",
+        "fl1DSmwQKKY"
+      ]
+    },
+    {
+      "query": "OpenAI Codex",
+      "status": "VERIFIED",
+      "requested": 100,
+      "returned": 100,
+      "rawCount": 140,
+      "uniqueCount": 113,
+      "pages": [
+        {
+          "source": "invidious",
+          "page": 1,
+          "returned": 20,
+          "newIds": 20
+        },
+        {
+          "source": "invidious",
+          "page": 2,
+          "returned": 20,
+          "newIds": 16
+        },
+        {
+          "source": "invidious",
+          "page": 3,
+          "returned": 20,
+          "newIds": 16
+        },
+        {
+          "source": "invidious",
+          "page": 4,
+          "returned": 20,
+          "newIds": 17
+        },
+        {
+          "source": "invidious",
+          "page": 5,
+          "returned": 20,
+          "newIds": 12
+        },
+        {
+          "source": "invidious",
+          "page": 6,
+          "returned": 20,
+          "newIds": 16
+        },
+        {
+          "source": "invidious",
+          "page": 7,
+          "returned": 20,
+          "newIds": 16
+        }
+      ],
+      "sources": [
+        "invidious"
+      ],
+      "warnings": [],
+      "fields": {
+        "title": 100,
+        "id": 100,
+        "channel": 100,
+        "publishedAt": 100,
+        "duration": 100,
+        "views": 100,
+        "likes": 0,
+        "comments": 0,
+        "classified": 0
+      },
+      "cacheHit": true,
+      "sampleIds": [
+        "7XzjQa8z0uc",
+        "ydTeb_I0b94",
+        "h-aSOm4Gkr0"
+      ]
+    },
+    {
+      "query": "AI automation",
+      "status": "VERIFIED",
+      "requested": 100,
+      "returned": 100,
+      "rawCount": 120,
+      "uniqueCount": 101,
+      "pages": [
+        {
+          "source": "invidious",
+          "page": 1,
+          "returned": 20,
+          "newIds": 20
+        },
+        {
+          "source": "invidious",
+          "page": 2,
+          "returned": 20,
+          "newIds": 16
+        },
+        {
+          "source": "invidious",
+          "page": 3,
+          "returned": 20,
+          "newIds": 14
+        },
+        {
+          "source": "invidious",
+          "page": 4,
+          "returned": 20,
+          "newIds": 17
+        },
+        {
+          "source": "invidious",
+          "page": 5,
+          "returned": 20,
+          "newIds": 16
+        },
+        {
+          "source": "invidious",
+          "page": 6,
+          "returned": 20,
+          "newIds": 18
+        }
+      ],
+      "sources": [
+        "invidious"
+      ],
+      "warnings": [],
+      "fields": {
+        "title": 100,
+        "id": 100,
+        "channel": 100,
+        "publishedAt": 100,
+        "duration": 100,
+        "views": 100,
+        "likes": 0,
+        "comments": 0,
+        "classified": 0
+      },
+      "cacheHit": true,
+      "sampleIds": [
+        "5TxSqvPbnWw",
+        "uaEXcgBpLbo",
+        "Gd4mV0J5ODM"
+      ]
+    },
+    {
+      "query": "AI 自動化 教學",
+      "status": "VERIFIED",
+      "requested": 20,
+      "returned": 20,
+      "sampleTitle": "15分鐘學會AI Agent｜完整講解"
+    }
+  ],
+  "uniqueAcrossSearches": 392,
+  "comments": [
+    {
+      "id": "ntDIxaeo3Wg",
+      "searchHit": true,
+      "source": "invidious",
+      "first": 20,
+      "next": 20,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": true,
+      "newestMonotonic": true,
+      "firstUnique": 20,
+      "nextUnique": 20,
+      "overlap": 0,
+      "replyParent": "UgzczPX_DcZxiYg8Ax14AaABAg",
+      "replies": 1,
+      "replyParentVerified": true,
+      "total": 760,
+      "example": {
+        "id": "UgzczPX_DcZxiYg8Ax14AaABAg",
+        "author": "@Michael-m9c5j",
+        "text": "This is exactly the kind of Claude Code content I wish I found earlier.. I also learned a lot of this stuff through AI Shortcuts for the Lazy Mind by Trent Calloway, especially how"
+      }
+    },
+    {
+      "id": "mGnWFfMBvm0",
+      "searchHit": true,
+      "source": "invidious",
+      "first": 20,
+      "next": 4,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": true,
+      "newestMonotonic": true,
+      "firstUnique": 20,
+      "nextUnique": 4,
+      "overlap": 0,
+      "replyParent": "UgxJvQ3paSF8YTwqqal4AaABAg",
+      "replies": 1,
+      "replyParentVerified": true,
+      "total": 53,
+      "example": {
+        "id": "UgxJvQ3paSF8YTwqqal4AaABAg",
+        "author": "@appraisal-clause",
+        "text": "I have my Hermes Agent connected to my Grok Bot & Grok Build, and Hermes delegates coding tasks go Build, and certain website based tasks go Grok bot, etc."
+      }
+    },
+    {
+      "id": "7XzjQa8z0uc",
+      "searchHit": true,
+      "source": "invidious",
+      "first": 20,
+      "next": 18,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": false,
+      "newestMonotonic": false,
+      "firstUnique": 20,
+      "nextUnique": 18,
+      "overlap": 0,
+      "replyParent": "UgzIXe0587ZYrTirStZ4AaABAg",
+      "replies": 1,
+      "replyParentVerified": true,
+      "total": 60,
+      "example": {
+        "id": "UgyXFoh2u0qNNXXZCCp4AaABAg",
+        "author": "@KevinStratvert",
+        "text": "🍪 Want to stay up to date on the latest AI tools, tips, and tutorials? Join my free newsletter here: newsletter.kevinstratvert.com/\nAnd if there’s something you’d like to see me c"
+      }
+    },
+    {
+      "id": "EsTrWCV0Ph4",
+      "searchHit": true,
+      "source": "invidious",
+      "first": 20,
+      "next": 20,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": false,
+      "newestMonotonic": false,
+      "firstUnique": 20,
+      "nextUnique": 20,
+      "overlap": 0,
+      "replyParent": "UgyHufiJ3qirlvcYiRh4AaABAg",
+      "replies": 10,
+      "replyParentVerified": true,
+      "total": 823,
+      "example": {
+        "id": "UgyHufiJ3qirlvcYiRh4AaABAg",
+        "author": "@nicksaraev",
+        "text": "If you liked this, would you do me a favor & check out Maker School? \n\nI'll guarantee you your first AI client in 90d (or your money back!) ➡ www.skool.com/makerschool"
+      }
+    },
+    {
+      "id": "X4FVEEegCbk",
+      "searchHit": true,
+      "source": "invidious",
+      "first": 20,
+      "next": 20,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": true,
+      "newestMonotonic": true,
+      "firstUnique": 20,
+      "nextUnique": 20,
+      "overlap": 0,
+      "replyParent": "UgyDFUYExysO9ZjZwkh4AaABAg",
+      "replies": 3,
+      "replyParentVerified": true,
+      "total": 181,
+      "example": {
+        "id": "UgzOfZAZTCfQSCdKt5t4AaABAg",
+        "author": "@john1215-j3k",
+        "text": "I think these four concepts are easy to confuse, but they solve very different problems. Understanding how Skills, MCP, RAG and Memory work together is what makes an AI agent genui"
+      }
+    },
+    {
+      "id": "SJywU4UQryQ",
+      "searchHit": true,
+      "source": "invidious",
+      "first": 20,
+      "next": 20,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": false,
+      "newestMonotonic": false,
+      "firstUnique": 20,
+      "nextUnique": 20,
+      "overlap": 0,
+      "replyParent": "UgwamoxTghlpQxuG4jt4AaABAg",
+      "replies": 2,
+      "replyParentVerified": true,
+      "total": 346,
+      "example": {
+        "id": "UgwIjaWU3EhabZWI4lR4AaABAg",
+        "author": "@danmartell",
+        "text": "✅ Get Your FREE AI Company Operating System here: go.danmartell.com/ai-operating-system-lf-749"
+      }
+    },
+    {
+      "id": "fl1DSmwQKKY",
+      "searchHit": true,
+      "source": "invidious",
+      "first": 20,
+      "next": 20,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": true,
+      "newestMonotonic": true,
+      "firstUnique": 20,
+      "nextUnique": 20,
+      "overlap": 0,
+      "replyParent": "Ugxc-JUCHRJP9j_7okx4AaABAg",
+      "replies": 10,
+      "replyParentVerified": true,
+      "total": 328,
+      "example": {
+        "id": "Ugxc-JUCHRJP9j_7okx4AaABAg",
+        "author": "@monothony",
+        "text": "I hit my weekly limit just watching this video."
+      }
+    },
+    {
+      "id": "WdZjoMi6W7Y",
+      "searchHit": true,
+      "source": "invidious",
+      "first": 20,
+      "next": 3,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": true,
+      "newestMonotonic": true,
+      "firstUnique": 20,
+      "nextUnique": 3,
+      "overlap": 0,
+      "replyParent": "UgxOFwxaGMBsgSInPvx4AaABAg",
+      "replies": 1,
+      "replyParentVerified": true,
+      "total": 42,
+      "example": {
+        "id": "UgxOFwxaGMBsgSInPvx4AaABAg",
+        "author": "@TheDarkVariableOfficial",
+        "text": "The biggest unlock most developers miss with Claude Code is running it headless with --auto alongside a background runner. If you pair it with a lightweight Cloudflare tunnel, you "
+      }
+    },
+    {
+      "id": "UUg5oij7ptw",
+      "searchHit": true,
+      "source": "invidious",
+      "first": 20,
+      "next": 19,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": true,
+      "newestMonotonic": true,
+      "firstUnique": 20,
+      "nextUnique": 19,
+      "overlap": 0,
+      "replyParent": "UgxPkwFWhirnH3Ko2mp4AaABAg",
+      "replies": 1,
+      "replyParentVerified": true,
+      "total": 80,
+      "example": {
+        "id": "UgxPkwFWhirnH3Ko2mp4AaABAg",
+        "author": "@hannah_1998",
+        "text": "Building self-improving AI agents with Claude using a generator, verifier, and coach is a fascinating approach. Trent Calloway’s Operator Playbook helped me understand how to build"
+      }
+    },
+    {
+      "id": "8KkKuTCFvzI",
+      "searchHit": false,
+      "source": "invidious",
+      "first": 20,
+      "next": 20,
+      "hasNext": true,
+      "latest": 20,
+      "changedOrder": true,
+      "newestMonotonic": true,
+      "firstUnique": 20,
+      "nextUnique": 20,
+      "overlap": 0,
+      "replyParent": "UgwA59itKUwocjACuxR4AaABAg",
+      "replies": 8,
+      "replyParentVerified": true,
+      "total": 12622,
+      "example": {
+        "id": "UgwA59itKUwocjACuxR4AaABAg",
+        "author": "@candis2789",
+        "text": "Unstoppable challenge people here???"
+      }
+    }
+  ],
+  "captions": [
+    {
+      "id": "ntDIxaeo3Wg",
+      "source": "invidious",
+      "label": "English (auto-generated)",
+      "language": "en",
+      "tracks": 2,
+      "automatic": true,
+      "cues": 2268,
+      "timestamps": true,
+      "textRoundtrip": true,
+      "bytes": 229763,
+      "sha256": "28d523b615969b19e6257c9e85a22f2b49ac944e75e561c451e5a04fa9eecc62",
+      "example": {
+        "startMs": 2350,
+        "endMs": 2360,
+        "text": "This video will teach you Claude Code."
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "mGnWFfMBvm0",
+      "source": "invidious",
+      "label": "English (auto-generated)",
+      "language": "en",
+      "tracks": 8,
+      "automatic": true,
+      "cues": 830,
+      "timestamps": true,
+      "textRoundtrip": true,
+      "bytes": 85487,
+      "sha256": "2ed7386d76d1973503724bf4578b6af398c46db7d8ee52e2c63db777e361633e",
+      "example": {
+        "startMs": 2630,
+        "endMs": 2640,
+        "text": "Every big AI company wants you paying"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "7XzjQa8z0uc",
+      "source": "invidious",
+      "label": "English",
+      "language": "en",
+      "tracks": 22,
+      "automatic": null,
+      "cues": 220,
+      "timestamps": true,
+      "textRoundtrip": true,
+      "bytes": 19190,
+      "sha256": "c5f7af96b1d1bd6cb85051f06fe63776fa66996b433932c5e65aedfa01bbfb58",
+      "example": {
+        "startMs": 80,
+        "endMs": 6880,
+        "text": "In this video, you'll learn how to use OpenAI's \nCodex step by step. Codex is an AI coding"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "EsTrWCV0Ph4",
+      "source": "invidious",
+      "label": "English (auto-generated)",
+      "language": "en",
+      "tracks": 1,
+      "automatic": true,
+      "cues": 8444,
+      "timestamps": true,
+      "textRoundtrip": true,
+      "bytes": 796802,
+      "sha256": "74f83f2707421f4078af84fdfa6c47a5e94becba6ba8134392e5d771f8cf47b2",
+      "example": {
+        "startMs": 1990,
+        "endMs": 2000,
+        "text": "Hey, this is the definitive course on AI"
+      },
+      "status": "VERIFIED"
+    },
+    {
+      "id": "X4FVEEegCbk",
+      "source": "invidious",
+      "label": "English",
+      "language": "en",
+      "tracks": 2,
+      "automatic": null,
+      "cues": 95,
+      "timestamps": true,
+      "textRoundtrip": true,
+      "bytes": 7075,
+      "sha256": "e32b464be3f424ad9bc2d0da087741835ebeab61071af61b1ba26663a01355a6",
+      "example": {
+        "startMs": 170,
+        "endMs": 2255,
+        "text": "There are different ways to give an AI agent the knowledge it needs to"
+      },
+      "status": "VERIFIED"
+    }
+  ],
+  "stats": [
+    {
+      "id": "ntDIxaeo3Wg",
+      "source": "invidious",
+      "publishedAt": "2026-02-27T00:00:00.000Z",
+      "views": 2049576,
+      "likes": 30524,
+      "comments": 760
+    },
+    {
+      "id": "mGnWFfMBvm0",
+      "source": "invidious",
+      "publishedAt": "2026-11-22T00:00:00.000Z",
+      "views": 18078,
+      "likes": 247,
+      "comments": 53
+    },
+    {
+      "id": "7XzjQa8z0uc",
+      "source": "invidious",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "views": 255213,
+      "likes": 2220,
+      "comments": 60
+    },
+    {
+      "id": "EsTrWCV0Ph4",
+      "source": "invidious",
+      "publishedAt": "2026-03-07T00:00:00.000Z",
+      "views": 1139829,
+      "likes": 20985,
+      "comments": 823
+    },
+    {
+      "id": "X4FVEEegCbk",
+      "source": "invidious",
+      "publishedAt": "2026-09-03T00:00:00.000Z",
+      "views": 317760,
+      "likes": 4134,
+      "comments": 181
+    },
+    {
+      "id": "SJywU4UQryQ",
+      "source": "invidious",
+      "publishedAt": "2026-10-28T00:00:00.000Z",
+      "views": 566275,
+      "likes": 8455,
+      "comments": 346
+    },
+    {
+      "id": "fl1DSmwQKKY",
+      "source": "invidious",
+      "publishedAt": "2026-05-05T00:00:00.000Z",
+      "views": 17964493,
+      "likes": 8312,
+      "comments": 328
+    },
+    {
+      "id": "WdZjoMi6W7Y",
+      "source": "invidious",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "views": 229667,
+      "likes": 833,
+      "comments": 42
+    },
+    {
+      "id": "UUg5oij7ptw",
+      "source": "invidious",
+      "publishedAt": "2026-11-21T00:00:00.000Z",
+      "views": 64725,
+      "likes": 969,
+      "comments": 80
+    },
+    {
+      "id": "8KkKuTCFvzI",
+      "source": "invidious",
+      "publishedAt": "2016-01-25T00:00:00.000Z",
+      "views": 30623593,
+      "likes": 568700,
+      "comments": 12622
+    }
+  ],
+  "status": {
+    "requests": 81,
+    "successes": 81,
+    "failures": 0,
+    "cacheHits": 29,
+    "cacheMisses": 70,
+    "coalesced": 0,
+    "fallbacks": 0,
+    "providers": [
+      {
+        "id": "invidious",
+        "base": "https://yt.chocolatemoo53.com",
+        "state": "available",
+        "checkedAt": "2026-11-23T12:48:02.907Z",
+        "cooldownUntil": null,
+        "lastError": null,
+        "successes": 81,
+        "failures": 0
+      },
+      {
+        "id": "piped",
+        "base": "https://api.piped.private.coffee",
+        "state": "untested",
+        "checkedAt": null,
+        "cooldownUntil": null,
+        "lastError": null,
+        "successes": 0,
+        "failures": 0
+      }
+    ],
+    "recent": [
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:48:02.907Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2937,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:47:57.970Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 94,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:47:55.876Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3458,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:47:50.417Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1587,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:47:46.829Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1612,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:47:43.216Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2493,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:47:38.722Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 4680,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:47:32.041Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2949,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:47:27.089Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2253,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:47:22.836Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3418,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:47:17.416Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2910,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:47:12.505Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3650,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:47:06.855Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2299,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:47:02.556Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2960,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:46:57.595Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 380,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:46:55.215Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3386,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:46:49.830Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 161,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:46:47.668Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3416,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:46:42.252Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3494,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:46:36.756Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2354,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:46:32.402Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1733,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:46:28.670Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 184,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:46:26.483Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2103,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:46:22.378Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3574,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:46:16.804Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3450,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:46:11.354Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3002,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "transcript",
+        "collectedAt": "2026-11-23T12:46:06.353Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 49,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:46:04.305Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 133,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:46:02.171Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2599,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:45:57.572Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1969,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:45:53.604Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 952,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:45:50.649Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3550,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "transcript",
+        "collectedAt": "2026-11-23T12:45:45.099Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 911,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:45:42.188Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3402,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:45:36.785Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 571,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:45:34.214Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1966,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:45:30.247Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1300,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:45:26.945Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3236,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "transcript",
+        "collectedAt": "2026-11-23T12:45:21.710Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 73,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:45:19.635Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 276,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:45:17.357Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 6097,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:45:09.259Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3583,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:45:03.675Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1407,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:45:00.267Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 809,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "transcript",
+        "collectedAt": "2026-11-23T12:44:57.459Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 128,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:44:55.331Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 125,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:44:53.205Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 642,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:44:50.563Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1619,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:44:46.943Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2078,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:44:42.864Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3011,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "transcript",
+        "collectedAt": "2026-11-23T12:44:37.853Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 156,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "detail",
+        "collectedAt": "2026-11-23T12:44:35.698Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 92,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "replies",
+        "collectedAt": "2026-11-23T12:44:33.605Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 939,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_new",
+        "collectedAt": "2026-11-23T12:44:30.665Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3482,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_page",
+        "collectedAt": "2026-11-23T12:44:25.183Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3731,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "comments_top",
+        "collectedAt": "2026-11-23T12:44:19.451Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2148,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:44:15.302Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2865,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:44:10.436Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3924,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:44:04.512Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1239,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:44:01.272Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3637,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:55.634Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3942,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:49.692Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2369,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:45.322Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3794,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:39.527Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 1533,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:35.993Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3700,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:30.292Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3666,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:24.625Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 4010,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:18.614Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3566,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:13.047Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3826,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:07.222Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 4102,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:43:01.119Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3913,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:55.206Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2976,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:50.230Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3275,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:44.953Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2890,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:40.062Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3809,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:34.252Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2753,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:29.499Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2057,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:25.440Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 3557,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:19.882Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 4339,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:13.542Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 2245,
+        "error": null
+      },
+      {
+        "source": "invidious",
+        "operation": "search",
+        "collectedAt": "2026-11-23T12:42:09.293Z",
+        "status": "VERIFIED",
+        "http": 200,
+        "elapsedMs": 4672,
+        "error": null
+      }
+    ],
+    "p50Ms": 2865,
+    "p95Ms": 4102
+  },
+  "errors": []
+}

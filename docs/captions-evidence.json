@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ntDIxaeo3Wg",
+    "language": "en",
+    "source": "invidious",
+    "collectedAt": "2026-11-23T12:58:28.672Z",
+    "captionCount": 2268,
+    "cleanInlineTiming": true,
+    "textRoundtrip": true,
+    "firstCue": {
+      "startMs": 2350,
+      "endMs": 2360,
+      "text": "This video will teach you Claude Code."
+    },
+    "sha256": "d2acc032d9de247b7f5e23a25ea52bd98abd78aba979a262b9f126ca3e611238"
+  },
+  {
+    "id": "mGnWFfMBvm0",
+    "language": "en",
+    "source": "invidious",
+    "collectedAt": "2026-11-23T12:58:53.070Z",
+    "captionCount": 830,
+    "cleanInlineTiming": true,
+    "textRoundtrip": true,
+    "firstCue": {
+      "startMs": 2630,
+      "endMs": 2640,
+      "text": "Every big AI company wants you paying"
+    },
+    "sha256": "30ff03d41bcf29284309c7b4c10f436a0080db785f4784e4f932c1f8b445a8fb"
+  },
+  {
+    "id": "7XzjQa8z0uc",
+    "language": "en",
+    "source": "invidious",
+    "collectedAt": "2026-11-23T12:58:55.226Z",
+    "captionCount": 220,
+    "cleanInlineTiming": true,
+    "textRoundtrip": true,
+    "firstCue": {
+      "startMs": 80,
+      "endMs": 6880,
+      "text": "In this video, you'll learn how to use OpenAI's \nCodex step by step. Codex is an AI coding"
+    },
+    "sha256": "c5f7af96b1d1bd6cb85051f06fe63776fa66996b433932c5e65aedfa01bbfb58"
+  },
+  {
+    "id": "EsTrWCV0Ph4",
+    "language": "en",
+    "source": "invidious",
+    "collectedAt": "2026-11-23T12:58:57.459Z",
+    "captionCount": 8444,
+    "cleanInlineTiming": true,
+    "textRoundtrip": true,
+    "firstCue": {
+      "startMs": 1990,
+      "endMs": 2000,
+      "text": "Hey, this is the definitive course on AI"
+    },
+    "sha256": "eb3c8f99f1db54d7bf4fd2ceccde67291c82b1ec016e2f9de0e601182c7da8d5"
+  },
+  {
+    "id": "X4FVEEegCbk",
+    "language": "en",
+    "source": "invidious",
+    "collectedAt": "2026-11-23T12:58:59.506Z",
+    "captionCount": 95,
+    "cleanInlineTiming": true,
+    "textRoundtrip": true,
+    "firstCue": {
+      "startMs": 170,
+      "endMs": 2255,
+      "text": "There are different ways to give an AI agent the knowledge it needs to"
+    },
+    "sha256": "e32b464be3f424ad9bc2d0da087741835ebeab61071af61b1ba26663a01355a6"
+  },
+  {
+    "id": "8KkKuTCFvzI",
+    "language": "zh-CN",
+    "source": "invidious",
+    "collectedAt": "2026-11-23T12:59:01.564Z",
+    "captionCount": 213,
+    "cleanInlineTiming": true,
+    "textRoundtrip": true,
+    "firstCue": {
+      "startMs": 0,
+      "endMs": 7000,
+      "text": "翻译人员: Li Li\n校对人员: Alvin Lee"
+    },
+    "sha256": "13f144c31a6960a33fcdcf1cef76dbf030583f21fa5ea855f6abb93f0018fed8"
+  }
+]
